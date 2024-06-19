@@ -1,3 +1,5 @@
+# [CAI23sbP] This is for Ubuntu 20.04 python3.8.x range_libc 
+
 # RangeLibc
 
 This library provides for different implementations of 2D raycasting for 2D occupancy grids, including the Compressed Directional Distance Transform (CDDT) algorithm as proposed in [this publication](http://arxiv.org/abs/1705.01167). The code is written and optimized in C++, and Python wrappers are also provided.
